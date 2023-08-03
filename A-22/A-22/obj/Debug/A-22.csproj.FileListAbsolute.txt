@@ -1,0 +1,8 @@
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\bin\Debug\A-22.exe.config
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\bin\Debug\A-22.exe
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\bin\Debug\A-22.pdb
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\obj\Debug\A-22.csproj.AssemblyReference.cache
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\obj\Debug\A-22.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\obj\Debug\A-22.csproj.CoreCompileInputs.cache
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\obj\Debug\A-22.exe
+C:\Users\dhana\OneDrive\Documents\3Aug\A-22\A-22\obj\Debug\A-22.pdb
